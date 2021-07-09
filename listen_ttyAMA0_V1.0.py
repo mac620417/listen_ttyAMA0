@@ -14,7 +14,7 @@ try:
         print (total)
 
         if linestr:
-            f = open('home/pi/DEsk/the_com1.txt','wt')
+            f = open('home/pi/Desk/the_com1.txt','wt')
             f.write(str(total))
             break
 
